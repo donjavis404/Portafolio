@@ -69,4 +69,4 @@ Se aplicaron políticas como:
 
 Entorno empresarial funcional con control centralizado y políticas de seguridad aplicadas.
 
-
+![](Imagenes/2025-10-05%2017%2026%2019.png)

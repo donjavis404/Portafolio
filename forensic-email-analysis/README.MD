@@ -62,3 +62,7 @@ El correo es fraudulento y corresponde a una estafa tipo “herencia falsa”.
 - Capacitar usuarios en phishing
 - Implementar filtros de seguridad
 
+![Info de la IP](Imagenes/Numero1.png)
+![Herramienta mxtoolbox](Imagenes/Numero2.png)
+![Mensaje en el correo](Imagenes/Numero3.png)
+![Calcular el Hash](Imagenes/Numero4.png)
