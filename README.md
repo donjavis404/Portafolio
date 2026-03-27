@@ -1,59 +1,92 @@
 # Cybersecurity Portfolio – Javier Tula
 
-Portafolio de proyectos prácticos en ciberseguridad, enfocado en redes, análisis forense y administración de sistemas.
+Técnico en Ciberseguridad con experiencia práctica en laboratorios de redes, análisis forense y pentesting.
 
-## Proyectos
+Este portafolio muestra proyectos reales desarrollados en entornos controlados, enfocados en detección, explotación de vulnerabilidades y administración de sistemas.
 
-### 1. Network Design – School Infrastructure
-Diseño de red segmentada mediante VLANs para una institución educativa.
+---
 
-- Segmentación de red
+##  Habilidades principales
+
+- Pentesting en laboratorio (Metasploitable2)
+- Explotación de vulnerabilidades:
+  - VSFTPD Backdoor
+  - Samba Exploit
+  - SQL Injection (DVWA)
+- Reconocimiento activo con Nmap
+- Uso de Metasploit Framework
+- Análisis forense de correos electrónicos
+- Diseño de redes segmentadas (VLANs)
+- Administración de Active Directory (AD DS + GPO)
+
+----------------------------------------------------------------    -----------------------------------------------------------
+
+##  Proyectos
+
+### Ethical Hacking Lab
+Laboratorio de hacking ético con Kali Linux y Metasploitable2.
+
+- Red aislada controlada
+- Comunicación entre máquinas
+- Acceso a servicios vulnerables
+
+--------> ./ethical-hacking-lab
+
+----------------------------------------------------------------    -----------------------------------------------------------
+### Vulnerability Exploitation
+Evaluación y explotación de vulnerabilidades en Metasploitable2.
+
+- Escaneo con Nmap
+- Uso de Metasploit
+- SQL Injection con sqlmap
+- Obtención de acceso remoto
+
+-------->./vulnerability-exploitation
+
+----------------------------------------------------------------    -----------------------------------------------------------
+
+### Network Design – School Infrastructure
+Diseño de red segmentada con VLANs.
+
 - Subnetting
-- Configuración en Packet Tracer
 - Routing entre VLANs
+- Implementación en Packet Tracer
 
---------------> ./network-design-school
+-------->./network-design-school
 
+----------------------------------------------------------------    -----------------------------------------------------------
 
-
-
-
-
-------------------------------------------------	-------------------------------------------
-
-
-### 2. Email Forensic Analysis
-Análisis forense de un correo sospechoso para determinar si se trata de fraude.
+### Email Forensic Analysis
+Análisis forense de correo fraudulento.
 
 - Verificación de hash
 - Análisis de headers
-- Identificación de indicadores de phishing
+- Identificación de phishing
 
---------------> ./forensic-email-analysis
+-------->./forensic-email-analysis
 
+----------------------------------------------------------------    -----------------------------------------------------------
 
-
-
-------------------------------------------------	-------------------------------------------
-
-### 3. Active Directory Lab
-Implementación de un entorno empresarial con Active Directory.
+### Active Directory Lab
+Implementación de entorno empresarial con AD.
 
 - Controlador de dominio
-- Gestión de usuarios
+- Usuarios y OUs
 - Políticas de seguridad (GPO)
-- Restricciones por roles
 
---------------> ./active-directory-lab
+--------> ./active-directory-lab
 
+----------------------------------------------------------------    -----------------------------------------------------------
 
+## Disclaimer
 
-## Tecnologías utilizadas
+Todos los proyectos fueron realizados en entornos controlados de laboratorio con fines educativos.
 
-- Networking (VLANs, Subnetting)
-- Active Directory
-- Análisis forense
-- Herramientas: Packet Tracer, HashCalc, VirusTotal
+----------------------------------------------------------------    -----------------------------------------------------------
 
+## Contacto
 
+- GitHub: https://github.com/donjavis404
+- Email: javieralbertotula2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/javier-tula/
 
